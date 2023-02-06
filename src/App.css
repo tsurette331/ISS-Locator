@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  align-items: center;
+}
+
+.App {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 3em;
+  margin: 1em;
+  background-color: rgb(253, 251, 249, 0.7);
+  box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.3);
+}
